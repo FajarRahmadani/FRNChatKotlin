@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_title">FRN Chat</string>
+    <string name="welcome_tagline">Aplikasi chat dengan jaringan yang sama</string>
+    <string name="welcome_desc">Hubungkan ke IP server, pilih username, lalu mulai ngobrol dengan pesan yang terenkripsi.</string>
+    <string name="btn_start">Mulai</string>
+    <string name="desc_logo">Logo FRN Chat</string>
+</resources>
